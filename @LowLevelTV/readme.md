@@ -17,3 +17,8 @@ Home:
 
 ## HardwareDb. /Firmware/CH341
 - [how is this hacking tool legal?](https://youtu.be/X-Lzq7jAT8I)
+
+## OpenIDE. /Vim
+sch: https://www.youtube.com/@LowLevelTV/search?query=vim
+
+- [everyone codes faster when they stop using their mouse](https://youtu.be/WkT8ZC4ncX8)
