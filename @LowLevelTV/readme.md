@@ -14,3 +14,6 @@ Home:
 
 ## Blockchain AntiCheat
 - [i was right.](https://youtu.be/F8cT1YCsxgo)
+
+## HardwareDb. /Firmware/CH341
+- [how is this hacking tool legal?](https://youtu.be/X-Lzq7jAT8I)
