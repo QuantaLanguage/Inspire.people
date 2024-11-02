@@ -15,3 +15,12 @@ Home:
 # Relation
 ## SourceGraph.AI
 - [268% Higher Failure Rates For Agile](https://youtu.be/w5Wr3j4h_1I)
+
+## UniCloud
+- [$10 Million Saved From Leaving The Cloud](https://youtu.be/9McPg64fdE8)
+
+## WikiGraph /Reviews
+- [Scams In Software Engineering](https://youtu.be/2UvHiH7zJLU)
+
+## MarketGraph
+- [I Quit Amazon After 2 Months](https://youtu.be/xP5nOMNku6w)
